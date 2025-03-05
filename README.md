@@ -602,7 +602,7 @@
   <tr>
     <td rowspan="1"><b>G15</b></td>
     <td rowspan="1">TRHC</td>
-    <td><a href="https://arxiv.org/abs/2112.03498">Hypergraph Ego-networks and Their Temporal Evolution</a></td><td><a href="">40</a></td>
+    <td><a href="https://arxiv.org/abs/2112.03498">Hypergraph Ego-networks and Their Temporal Evolution</a></td><td>
   </tr>
   <tr>
     <td rowspan="1"><b>G16</b></td>
